@@ -13,6 +13,17 @@
   --color-4: #71da35; /* sub  color */
 
   --color-5: #cff1af; /* */
+  --logo-URL: url(https://media.discordapp.net/attachments/579335484556181506/685880871127220244/27d9190719414322.jpg);
+  --logo-Width: 158px;
+  --logo-Height: 50px;
+  --logo-size-mobile: 90px 32px;
+  --icon-URL: url();
+  --pre-comment: "Å×½º ";
+  --sub-comment: "Æ®";
+
+
+
+
 
 }
 
@@ -27,3 +38,7 @@ header #header-bar > .row {
     border-bottom: 2px solid var(--color-1); border-right: 2px solid var(--color-1) 
 
 }
+
+
+
+
